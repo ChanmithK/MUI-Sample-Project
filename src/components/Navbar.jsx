@@ -53,7 +53,7 @@ function Navbar() {
     <AppBar position="sticky">
       <StyledToolbar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          Chandiv Kariyawasam
+          Chandiv Facebook
         </Typography>
         <PetsIcon sx={{ display: { xs: "block", sm: "none" } }} />
         <Search>
